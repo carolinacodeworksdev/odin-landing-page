@@ -57,6 +57,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 20px;
 }
 
 .hero-content h1 {
@@ -72,13 +73,8 @@ body {
     font-size: 18px;
     color: #E5E7EB;
     width: 400px;
-    margin: 20px auto 0;
+    margin: o auto;
     text-align: center;
-}
-
-.hero-content h1 p {
-    flex:1;
-    justify-content: flex-start;
 }
 
 .hero-button {
